@@ -1,0 +1,11 @@
+wheel
+geopandas
+matplotlib
+osmium
+shapely
+descartes
+pillow
+sentinelhub
+planet
+requests
+scikit-image

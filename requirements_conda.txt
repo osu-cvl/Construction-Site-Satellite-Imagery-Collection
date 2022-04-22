@@ -1,0 +1,11 @@
+geopandas
+matplotlib
+shapely
+descartes
+pillow
+sentinelhub
+planet
+requests
+scikit-image
+jupyterlab
+nb_conda_kernels
