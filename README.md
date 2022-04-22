@@ -1,4 +1,6 @@
 # Extracting Imagery of OpenStreetMap Construction Over Time
+This repo contains the official code for the paper "A Framework for Semi-automatic Collection of Temporal Satellite Imagery for Analysis of Dynamic Regions" by Nicholas Kashani Motlagh, Aswathnarayan Radhakrishnan, Jim Davis, and Roman Ilin.
+
 This project aims to extract construction information from a region of interest over time. The modules in this package 
 use data from
 OpenStreetMap to leverage information about the region. After information is extracted, multi-temporal RGB and/or NIR 
